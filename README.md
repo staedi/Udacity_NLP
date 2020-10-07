@@ -33,6 +33,6 @@ Regardless of applications, preprocessing step is needed for the purpose.
 
 Why did I set my mind to move forward with this discipline?
 
-I was motivated with a podcast episode of *NPR*'s `Platnet Money`, [BOTUS](https://www.npr.org/2019/10/08/768370374/episode-763-botus). BOTUS means Bot of the United States, just like POTUS. That implies what this bot does. 
+I was motivated with a podcast episode of *NPR*'s `Platnet Money`, [BOTUS](https://www.npr.org/2019/10/08/768370374/episode-763-botus). `BOTUS` means *Bot of the United States*, just like *POTUS*. That implies what this bot does. 
 
 Namely, it analyzes President Trump's tweets and makes trading predictions only relying on them. This is clearly an application of Natural Language Processing, and I was intrigued by that and I hope to see myself implement something like that in the near future.
