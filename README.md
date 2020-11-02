@@ -1,6 +1,9 @@
 # Udacity_NLP
 This repository was made to store materials for Udacity Natural Language Processing NanoDegree Program, which I'm currently enrolled in.
 
+## Disclaimer
+Every notebook and iamge/diagram included in this repository is from the Udacity Natural Language Processing NanoDegree Program.
+
 ## Natural Language Processing?
 
 Arguably, Natural Language Processing is one of the most hyped and well-recognized branch of Artificial Intelligence discipline. It aims to equip machines to be able to understand the texts and contexts we use, which is a whole difference level of subject than basic machine learning discpline. 
